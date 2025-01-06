@@ -30,7 +30,7 @@ Ratings and Reviews
 Delivery Options
 
 Analysis Highlights
-Top Cities with Most Restaurants: Identify which cities have the highest density of restaurants.
+Top Cities with Most Restaurants:Identify which cities have the highest density of restaurants.
 Cuisine Popularity: Discover which cuisines are most favored by customers.
 Price vs. Rating Correlation: Examine how restaurant prices impact customer ratings.
 High-Rated Restaurants: List of restaurants with the best ratings in different cities and for different cuisines.
