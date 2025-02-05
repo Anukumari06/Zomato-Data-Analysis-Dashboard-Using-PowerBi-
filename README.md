@@ -1,6 +1,6 @@
-#Zomato Data Analysis Dashboard 
+# Zomato Data Analysis Interactive Dashboard by using powerBi 
   
-##Project Overview
+## Project Overview
 
 This project analyzes Zomato restaurant data and presents insights through an interactive dashboard. The dashboard provides a comprehensive overview of restaurant trends, customer preferences, and key performance indicators (KPIs) to aid decision-making for restaurant owners, food enthusiasts, and data analysts.
 
